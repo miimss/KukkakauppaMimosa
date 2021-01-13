@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: #fbf9fc;
+    color: #222;
+    size: 1.5em;
+}
+
+.navbar {
+    padding: .3rem;
+}
+
+.navbar-nav li {
+    padding-left: 0.35em;
+}
+
+.nav-link {
+    font-size: 1em;
+}
+
+.search-container input {
+    width: 100px;
+    background-color: white;
+
+}
+
+.carousel-inner img {
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-caption h1 {
+    font-size: 5vw;
+    text-shadow: 1px 1px 15px white;
+}
+
+.carousel-caption h2 {
+    font-size: 3vw;
+    text-shadow: 1px 1px 15px white;
+    font-weight: 500;
+}
+
+.btn-dark {
+    background-color: #292929;
+    border: 1px solid black;
+}
+
+.btn-light {
+    color: #292929;
+    border: 1px solid black;
+}
+.btn-secondary {
+    background-color: #454343;
+    border: 1px solid black;
+}
+
+.padding {
+    padding-bottom: 2rem;
+}
+
+.welcome {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.welcome hr {
+    border-top: 1px solid #5c5b5b;
+    width: 90%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.welcome h4 {
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+}
+
+.card {
+    margin: 0.5rem;
+}
+
+.img-card-top {
+    padding: 2em;
+}
+
+.btn-block {
+    margin-top: 1em;
+}
+
+.pic img {
+    margin-top: 1.5rem;
+}
+
+.social {
+    font-size: 3em;
+    padding: .5rem;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-instagram {
+    color: #517fa4;
+}
+
+.fa-youtube {
+    color: #bb0000;
+}
+
+.fa-facebook-square:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {
+    color: #d5d5d5;
+}
+
+.contact h1 {
+    margin-top: 1.5rem;
+}
+
+.contact hr {
+    border-top: 1px solid #5c5b5b;
+    width: 100%;
+    margin-top: .3rem;
+    margin-bottom: 1.5rem;
+}
+
+.contact a:link {
+    color: #222;
+    size: 1.5em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.contact a:hover{
+    color: #5c5b5b;
+}
+
+.shop a {
+    color: #292929;
+    text-decoration: underline;
+}
+
+.shop a:hover {
+    color: #5c5b5b;
+}
+
+
+.map-responsive iframe {
+    width: 100%;
+
+}
+
+@media (max-widht: 992px) {
+
+}
+@media (max-widht: 768px) {
+  
+}
+@media (max-widht: 576px) {
+    
+}
